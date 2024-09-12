@@ -37,8 +37,6 @@ I am an Informatics Engineering student at Universitas Palangka Raya in Palangka
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
 </div>
 
-###
-
 ---
 
 ## 🎯 Fun Facts
@@ -48,6 +46,7 @@ I am an Informatics Engineering student at Universitas Palangka Raya in Palangka
 - 📘 Love reading books about tech and business to keep my mind sharp.
   
 ---
+
 
 ## 📫 Connect With Me
 
@@ -67,5 +66,21 @@ I am an Informatics Engineering student at Universitas Palangka Raya in Palangka
 
 
 Let's build something amazing together! ✨
+
+---
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/AlRafi004/count.svg?"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=AlRafi004&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
 
 ---
