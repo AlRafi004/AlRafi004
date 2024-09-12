@@ -68,7 +68,4 @@ I am an Informatics Engineering student at Universitas Palangka Raya in Palangka
 
 Let's build something amazing together! ✨
 
-
-<img src="https://raw.githubusercontent.com/AlRafi004/output/snake.svg" alt="Snake animation" />
-
 ---
