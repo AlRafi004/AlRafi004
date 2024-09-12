@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Muhammad Hadianur Al Rafi! 🎯
 
-![Snake Coding Animation](https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif) ![Coding](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+![Snake Coding Animation](https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif) 
 
 ---
 
