@@ -1,22 +1,21 @@
 # 👋 Hi, I'm Muhammad Hadianur Al Rafi! 🎯
 
-![Coding](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+![Snake Coding Animation](https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif) ![Coding](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
 ---
 
 ## 🚀 About Me
 
-I'm a **4th-semester Informatics Engineering student** at Universitas Palangka Raya (UPR). Passionate about solving real-world problems through technology and always eager to learn something new!
+I'm a **Informatics Engineering student** at Universitas Palangka Raya (UPR). Passionate about solving real-world problems through technology and always eager to learn something new!
 
 🌱 **Currently Exploring:**  
 - Data Analytics  
 - Artificial Intelligence  
 - Cloud Computing  
-- Full-Stack Development  
+- Project Management
 
 🎓 **Education:**  
-- **Informatics Engineering**, Universitas Palangka Raya  
-- MSIB Aspirant in Data Analytics & AI!  
+- **Informatics Engineering**, Universitas Palangka Raya    
 
 ---
 
@@ -41,69 +40,21 @@ I'm a **4th-semester Informatics Engineering student** at Universitas Palangka R
 
 ---
 
-## 📊 Skills Statistics
+## 🌟 Projects Experience
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
-  <div style="text-align: center;">
-    <svg viewBox="0 0 36 36" width="120" height="120">
-      <path d="M18 2.0845
-        a 15.9155 15.9155 0 0 1 0 31.831
-        a 15.9155 15.9155 0 0 1 0 -31.831"
-        fill="none" stroke="#4CAF50" stroke-width="2.8"
-        stroke-dasharray="90, 100"/>
-      <text x="18" y="20.35" fill="#4CAF50" font-size="7" text-anchor="middle">90%</text>
-    </svg>
-    <p>Python</p>
-  </div>
+### 1. Canva Application Review Website
+- Developed a website for reviewing Canva with data scraping, MySQL integration, and full CRUD functionality.
+- **Technologies used:** Python (for scraping), MySQL, PHP, HTML, CSS, JavaScript
 
-  <div style="text-align: center;">
-    <svg viewBox="0 0 36 36" width="120" height="120">
-      <path d="M18 2.0845
-        a 15.9155 15.9155 0 0 1 0 31.831
-        a 15.9155 15.9155 0 0 1 0 -31.831"
-        fill="none" stroke="#2196F3" stroke-width="2.8"
-        stroke-dasharray="85, 100"/>
-      <text x="18" y="20.35" fill="#2196F3" font-size="7" text-anchor="middle">85%</text>
-    </svg>
-    <p>C++</p>
-  </div>
+### 2. Puskesmas Samuda Patient Registration Website
+- Built a functional admin dashboard for patient registration with features like login and user registration.
+- Created databases using Stored Procedures, Functions, Triggers, and Views.
+- **Technologies used:** PHP, MySQL, HTML, CSS, JavaScript
 
-  <div style="text-align: center;">
-    <svg viewBox="0 0 36 36" width="120" height="120">
-      <path d="M18 2.0845
-        a 15.9155 15.9155 0 0 1 0 31.831
-        a 15.9155 15.9155 0 0 1 0 -31.831"
-        fill="none" stroke="#FFC107" stroke-width="2.8"
-        stroke-dasharray="75, 100"/>
-      <text x="18" y="20.35" fill="#FFC107" font-size="7" text-anchor="middle">75%</text>
-    </svg>
-    <p>Pascal</p>
-  </div>
-
-  <div style="text-align: center;">
-    <svg viewBox="0 0 36 36" width="120" height="120">
-      <path d="M18 2.0845
-        a 15.9155 15.9155 0 0 1 0 31.831
-        a 15.9155 15.9155 0 0 1 0 -31.831"
-        fill="none" stroke="#FF5722" stroke-width="2.8"
-        stroke-dasharray="80, 100"/>
-      <text x="18" y="20.35" fill="#FF5722" font-size="7" text-anchor="middle">80%</text>
-    </svg>
-    <p>PHP</p>
-  </div>
-</div>
-
-
----
-
-## 🌟 Projects Dashboard
-
-| Project | Description | Tools & Technologies |
-|---------|-------------|----------------------|
-| **Canva Application Review Website** | Developed a website for reviewing Canva with data scraping, MySQL integration, and full CRUD functionality. | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) |
-| **Puskesmas Samuda Patient Registration Website** | Built a functional dashboard for patient registration with Stored Procedures, Functions, Triggers, and Views. | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) |
-| **Aronggear Anime Website** | Created an anime info website with a responsive UI, search, and filtering features. | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
-
+### 3. Aronggear Anime Website
+- Designed and developed an anime info website with a responsive UI.
+- Added features like search and filtering for easy access to anime data.
+- **Technologies used:** HTML, CSS, JavaScript 
 
 ---
 
