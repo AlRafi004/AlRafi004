@@ -7,18 +7,7 @@
 
 ## 🚀 About Me
 
-I am an Informatics Engineering student at Palangka Raya University (UPR), Palangka Raya City, Central Kalimantan. 
-
-I am passionate about solving real-world challenges through technology and am always motivated to learn new things.
-
-🌱 **Currently Exploring:**  
-- Data Analytics  
-- Artificial Intelligence  
-- Cloud Computing  
-- Project Management
-
-🎓 **Education:**  
-- **Informatics Engineering**, Universitas Palangka Raya    
+I am an Informatics Engineering student at Universitas Palangka Raya in Palangka Raya City, Central Kalimantan. I am passionate about solving real-world challenges through technology and am always motivated to learn new things. Currently, I am exploring various fields including Data Analytics, Artificial Intelligence, Cloud Computing, and Project Management. My academic journey in Informatics Engineering has equipped me with a solid foundation in these areas, and I am eager to apply my knowledge and skills to new and exciting projects.  
 
 ---
 
@@ -40,24 +29,6 @@ I am passionate about solving real-world challenges through technology and am al
   ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat&logo=microsoft-office&logoColor=white)
   ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
   ![CapCut](https://img.shields.io/badge/CapCut-000000?style=flat&logo=capcut&logoColor=white)
-
----
-
-## 🌟 Projects Experience
-
-### 1. Canva Application Review Website
-- Developed a website for reviewing Canva with data scraping, MySQL integration, and full CRUD functionality.
-- **Technologies used:** Python (for scraping), MySQL, PHP, HTML, CSS, JavaScript
-
-### 2. Puskesmas Samuda Patient Registration Website
-- Built a functional admin dashboard for patient registration with features like login and user registration.
-- Created databases using Stored Procedures, Functions, Triggers, and Views.
-- **Technologies used:** PHP, MySQL, HTML, CSS, JavaScript
-
-### 3. Aronggear Anime Website
-- Designed and developed an anime info website with a responsive UI.
-- Added features like search and filtering for easy access to anime data.
-- **Technologies used:** HTML, CSS, JavaScript 
 
 ---
 
