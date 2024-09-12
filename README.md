@@ -7,9 +7,9 @@
 
 ## 🚀 About Me
 
-I am an Informatics Engineering student at Universitas Palangka Raya in Palangka Raya City, Central Kalimantan. I am passionate about solving real-world challenges through technology and am always motivated to learn new things. 
-
-Currently, I am exploring various fields including Data Analytics, Artificial Intelligence, Cloud Computing, and Project Management. My academic journey in Informatics Engineering has equipped me with a solid foundation in these areas, and I am eager to apply my knowledge and skills to new and exciting projects.  
+<p align="justify">
+I am an Informatics Engineering student at Universitas Palangka Raya in Palangka Raya City, Central Kalimantan. I am passionate about solving real-world challenges through technology and am always motivated to learn new things. Currently, I am exploring various fields including Data Analytics, Artificial Intelligence, Cloud Computing, and Project Management. My academic journey in Informatics Engineering has equipped me with a solid foundation in these areas, and I am eager to apply my knowledge and skills to new and exciting projects. .
+</p> 
 
 ---
 
