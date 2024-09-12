@@ -41,16 +41,14 @@ I'm a **4th-semester Informatics Engineering student** at Universitas Palangka R
 
 ---
 
-## 🌟 Experiences
+## 🌟 Projects Dashboard
 
-### 📌 Canva Application Review Website  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)  
+| Project | Description | Tools & Technologies |
+|---------|-------------|----------------------|
+| **Canva Application Review Website** | Developed a website for reviewing Canva with data scraping, MySQL integration, and full CRUD functionality. | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) |
+| **Puskesmas Samuda Patient Registration Website** | Built a functional dashboard for patient registration with Stored Procedures, Functions, Triggers, and Views. | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) |
+| **Aronggear Anime Website** | Created an anime info website with a responsive UI, search, and filtering features. | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
 
-### 📌 Puskesmas Samuda Patient Registration Website  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
-
-### 📌 Aronggear Anime Website  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
 
 ---
 
