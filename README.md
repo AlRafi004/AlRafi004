@@ -70,8 +70,8 @@ I'm a **4th-semester Informatics Engineering student** at Universitas Palangka R
 
 ## 📫 Connect With Me
 
-- [LinkedIn](https://www.linkedin.com/in/rafi/)  
-- [Instagram](https://www.instagram.com/rafi/)  
+- [LinkedIn](www.linkedin.com/in/al-rafi-883b34310)  
+- [Instagram](https://www.instagram.com/rafi_jakson/)  
 - [Email](mailto:muhammad.hadianur@domain.com)
 
 Let's build something amazing together! ✨
