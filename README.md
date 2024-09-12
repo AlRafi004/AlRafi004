@@ -2,7 +2,6 @@
 
 <img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" alt="Wide GIF" style="width:100%; height:auto;">
 
-
 ---
 
 ## 🚀 About Me
