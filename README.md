@@ -23,6 +23,7 @@ I'm a **4th-semester Informatics Engineering student** at Universitas Palangka R
 ### 💻 Technical Skills:
 
 - **Programming Languages:**  
+  ![Pascal](https://img.shields.io/badge/Pascal-0096D6?style=flat&logo=delphi&logoColor=white)
   ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
@@ -40,16 +41,16 @@ I'm a **4th-semester Informatics Engineering student** at Universitas Palangka R
 
 ---
 
-## 🔥 Projects
+## 🌟 Experiences
 
-- [**Patient Registration System**](https://github.com/rafi/patient-registration) 💉  
-  Built a simple web-based CRUD app for patient management at a local health center using PHP, MySQL, and Bootstrap.
+### 📌 Canva Application Review Website  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)  
 
-- [**Network Routing Visualizer**](https://github.com/rafi/network-routing) 🛤️  
-  Visualized Dijkstra and Bellman-Ford algorithms using Python and NetworkX.
+### 📌 Puskesmas Samuda Patient Registration Website  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
 
-- [**House Floor Plan with OpenGL**](https://github.com/rafi/opengl-floor-plan) 🏠  
-  Designed and simulated a 3D floor plan using OpenGL.
+### 📌 Aronggear Anime Website  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
 
 ---
 
